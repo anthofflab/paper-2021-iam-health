@@ -23,3 +23,9 @@ All scripts are configured such that they automatically download and install any
 ## Result files
 
 All results will be stored in the folder `output`.
+
+## Running the code in the cloud
+
+You can also run the replication code on the https://mybinder.org/ service via this link:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anthofflab/paper-2021-iam-health/v1.0.0)
